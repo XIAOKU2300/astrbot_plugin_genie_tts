@@ -1,0 +1,2 @@
+# astrbot_plugin_genie_tts
+连接本地的genisTTS并且实现通过拦截Ai回复进行tts朗读的插件
